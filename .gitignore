@@ -1,0 +1,21 @@
+# --- Virtual Environments ---
+rag2026/
+.venv/
+venv/
+env/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+checkpoint/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- OS & IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
