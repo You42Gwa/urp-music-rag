@@ -3,7 +3,7 @@
 ### [01_Data_Preprocessing] - Task 1
 - [cite_start] 음악 데이터셋(Lyrics 등) 전처리, Chunking 등
 
-### [02_Retriever_Design] - Task 2 (Current Focus)
+### [02_Retriever_Design] - Task 2
 - [cite_start] FAISS, Chroma 구현 및 비교, 유사도 지표(Cosine/Euclidean 비교), retriever 생성
 
 ### [03_Evaluation] - Task 3
